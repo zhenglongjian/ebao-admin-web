@@ -3,17 +3,6 @@
 ## 说明
 
 > 基于Vue+Element的电商后台管理系统，完整实现了整个流程。
-
-> 该项目为前后端分离项目，搭建步骤具体参考后端项目[传送门](https://github.com/macrozheng/mall)。
-
-> 如果该项目对您有帮助，您可以点右上角 "Star" 支持一下，谢谢！
-
-> 该项目已由`CODING`特别赞助，支持的可以点下赞助商链接，浏览`2~3`个页面即可，谢谢！
-
-> 项目交流QQ群：[553018255](http://qm.qq.com/cgi-bin/qm/qr?k=M5Edq2TiJL_ShcOEeYjwcmdGmq4zZrd_)、[959351312(满)](http://qm.qq.com/cgi-bin/qm/qr?k=V6xu5c12j9qhnMUNdDRzakNxRKzOxibQ)。
-
-> 码云项目地址：[https://gitee.com/macrozheng/mall-admin-web](https://gitee.com/macrozheng/mall-admin-web)
-
 ## 前言
 
 `mall`项目后台管理系统的前端项目
@@ -29,7 +18,7 @@
 
 ## 项目介绍
 
-`mall-admin-web`是一个电商后台管理系统的前端项目，基于Vue+Element实现。
+`ebao-admin-web`是一个电商后台管理系统的前端项目，基于Vue+Element实现。
 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
 
 ### 项目演示
